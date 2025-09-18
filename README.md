@@ -130,8 +130,6 @@ Patient-App-Project/
 
 ---
 
-## 📸 Screenshots 
-
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
